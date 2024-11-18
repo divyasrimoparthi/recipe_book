@@ -1,0 +1,67 @@
+name: recipe_book
+description: A Flutter project for displaying recipe categories.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Add additional dependencies if needed (e.g., for icons or networking).
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # Assets configuration
+  assets:
+    - assets/images/chinese.png
+    - assets/images/italian.png
+    - assets/images/mexican.png
+    - assets/images/thai.png
+    - assets/images/dessert.png
+    - assets/images/drink.png
+    - assets/images/chinese_recipe1.png
+    - assets/images/chinese_recipe2.png
+    - assets/images/chinese_recipe3.png
+    - assets/images/chinese_recipe4.png
+    - assets/images/chinese_recipe5.png
+    - assets/images/chinese_recipe6.png
+    - assets/images/chinese_recipe7.png
+    - assets/images/chinese_recipe8.png
+    - assets/images/italian_recipe1.png
+    - assets/images/italian_recipe2.png
+    - assets/images/italian_recipe3.png
+    - assets/images/italian_recipe4.png
+    - assets/images/italian_recipe5.png
+    - assets/images/italian_recipe6.png
+    - assets/images/mexican_recipe1.png
+    - assets/images/mexican_recipe2.png
+    - assets/images/mexican_recipe3.png
+    - assets/images/mexican_recipe4.png
+    - assets/images/thai_recipe1.png
+    - assets/images/thai_recipe2.png
+    - assets/images/thai_recipe3.png
+    - assets/images/thai_recipe4.png
+    - assets/images/dessert_recipe1.png
+    - assets/images/dessert_recipe2.png
+    - assets/images/dessert_recipe3.png
+    - assets/images/dessert_recipe4.png
+    - assets/images/dessert_recipe5.png
+    - assets/images/dessert_recipe6.png
+    - assets/images/drink_recipe1.png
+    - assets/images/drink_recipe2.png
+    - assets/images/drink_recipe3.png
+    - assets/images/drink_recipe4.png
+    - assets/images/drink_recipe5.png
+    - assets/images/drink_recipe6.png
+
+
+
